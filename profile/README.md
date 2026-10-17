@@ -15,7 +15,7 @@ For private networks, growing public chains and the historical archives they lea
 | [FSNEX — Fusion archive](https://fsnex.net/) | 15,130,081 recovered blocks, from genesis through block 15,130,080. Fusion's recovered history, preserved as a searchable archive. |
 | [BNB Smart Chain explorer](https://bnb.blockgaze.com/) | An active EVM network with a rolling window of recent activity. |
 
-[![FSNEX explorer showing Fusion's recovered blockchain history](https://raw.githubusercontent.com/BlockGaze/.github/main/profile/assets/fsnex-explorer.jpg)](https://fsnex.net/)
+[![FSNEX explorer showing Fusion's recovered blockchain history](https://raw.githubusercontent.com/BlockGaze/.github/main/fsnex-explorer.jpg)](https://fsnex.net/)
 
 *FSNEX screenshot captured October 13, 2026. Historical snapshot, not a live feed.*
 
@@ -36,3 +36,4 @@ BlockGaze grew out of rebuilding FSNEX after Fusion's public infrastructure disa
 Launching a chain, replacing an explorer or preserving historical records? Tell us your chain's name, its current status and what you need.
 
 **[info@blockgaze.com](mailto:info@blockgaze.com)** · [BlockGaze website](https://blockgaze.com/) · [X](https://x.com/blockgazecom) · [LinkedIn](https://www.linkedin.com/company/blockgaze/)
+
