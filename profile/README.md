@@ -29,7 +29,7 @@ The [API documentation](https://github.com/BlockGaze/blockgaze-api-docs) include
 
 BlockGaze grew out of rebuilding FSNEX after Fusion's public infrastructure disappeared. A community member's node backup made it possible to restore access to the chain's recovered history. That work became the foundation for an explorer adaptable to other EVM networks.
 
-[Learn about blockchain archives](https://blockgaze.com/blockchain-archive-explorer)
+[Read the Fusion recovery case study](https://blockgaze.com/fusion-recovery-case-study) · [Learn about blockchain archives](https://blockgaze.com/blockchain-archive-explorer)
 
 ## An explorer for your network
 
